@@ -1,0 +1,55 @@
+.head{
+	font: 20px "微软雅黑";
+	background-color: #1E90FF;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.head2{
+    background-color: rgba(0,0,0,0);
+    position: absolute;
+    left: 15;
+    top: 0;
+    color: white;
+}
+.list{
+    border: 10px solid #DCDCDC;
+}
+.searchcss{
+	width: 100%;
+	background-image:url(img/search-btn.jpg);
+    background-repeat:no-repeat;
+    background-size: 25px 25px;
+    padding-left: 35px;
+}
+.info{
+	padding-top: 15px;
+	padding-bottom: 5px;
+	border-top: 1px solid #DCDCDC;
+	font: 18px "微软雅黑";
+}
+.pic{
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
+	text-align: center;
+	font-size: 40px;
+	background-color: #86c2fd; 
+	color: white;
+}
+.title{
+	padding-top: 15px;
+	padding-left: 0;
+}
+.font{
+	padding-top: 15px;
+}
+.pic-1{
+	background-color: #06c628; 
+}
+.pic-2{
+	background-color: #fdb017; 
+}
+.pic-3{
+	background-color: #6817fd; 
+}

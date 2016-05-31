@@ -1,0 +1,62 @@
+.head{
+	font: 20px "微软雅黑";
+	background-color: #1E90FF;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+.head2{
+    background-color: rgba(0,0,0,0);
+    position: absolute;
+    left: 15;
+    top: 0;
+}
+.photo{
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
+}
+.con1{
+	font: 20px "微软雅黑";
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.name{
+	padding: 10px 0 10px 0;
+	border-bottom: 1px solid #DCDCDC;
+}
+.info{
+	color: #778899;
+	float: right;
+	font-size: 16px;
+}
+.base-font{
+	margin-left: 10px;
+	float: right;
+}
+.like{
+	padding: 5px 0 10px 0;
+}
+.font{
+	color: #1E90FF;
+	margin-right: 10px;
+}
+.main1{
+	padding-top: 15px;
+    border-top: 10px solid #DCDCDC;
+    font: 18px "微软雅黑";
+}
+.intro{
+	padding-right: 0;
+}
+.intro-title{
+    text-indent: 1em;
+}
+.intro-title,.intro-font{
+	padding-bottom: 10px;
+    border-bottom: 1px solid #DCDCDC;
+}
+.main2{
+	padding-top: 15px;
+    font: 18px "微软雅黑";
+}
